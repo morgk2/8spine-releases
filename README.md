@@ -68,7 +68,7 @@
 - You can join the beta testing program via TestFlight for iOS:
  - **iOS Beta:** [Join via TestFlight](https://testflight.apple.com/join/WpRgRCDm)
 - Download the latest android builds from the release assets below:
- - **Android:** [Download for Android](https://github.com/morgk2/8spine/releases/latest)
+ - **Android:** [Download for Android](https://github.com/morgk2/8spine-releases/releases/latest)
 
 ---
 
