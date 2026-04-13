@@ -1,4 +1,5 @@
-
+<div align="center">
+  
   # 8SPINE
 
   **A modern mobile music player focused on freedom, discovery, customization, and connected listening.**
