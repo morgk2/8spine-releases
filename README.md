@@ -6,7 +6,7 @@
   **A modern mobile music player focused on freedom, discovery, customization, and connected listening.**
 
   <p align="center">
-    <a href="https://github.com/morgk2/8spine/releases">
+    <a href="https://github.com/morgk2/8spine-releases/releases">
       <img src="https://img.shields.io/github/v/release/morgk2/8spine?label=Version&style=for-the-badge&color=24292e" alt="Latest Version">
     </a>
     <a href="https://testflight.apple.com/join/WpRgRCDm">
