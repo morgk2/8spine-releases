@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="https://github.com/morgk2/8spine-releases/releases">
-      <img src="https://img.shields.io/github/v/release/morgk2/8spine?label=Version&style=for-the-badge&color=24292e" alt="Latest Version">
+      <img src="https://img.shields.io/github/v/release/morgk2/8spine-releases?label=Version&style=for-the-badge&color=24292e" alt="Latest Version">
     </a>
     <a href="https://testflight.apple.com/join/WpRgRCDm">
       <img src="https://img.shields.io/badge/TestFlight-Join%20Beta-0066CC?style=for-the-badge&logo=apple&logoColor=white" alt="Join TestFlight">
