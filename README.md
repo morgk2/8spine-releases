@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="src/assets/logo%20white.png" alt="8SPINE logo" width="160" />
 
   # 8SPINE
 
